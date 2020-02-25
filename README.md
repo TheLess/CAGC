@@ -12,4 +12,4 @@ The 2nd China Art Game Competition
 - huzhibo666
 - fushao
 
-- （push test）
+- 消息同步测试2
